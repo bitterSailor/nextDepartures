@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nextDepartures">
+    <output-path>$PROJECT_DIR$/out/artifacts/nextDepartures</output-path>
+    <root id="archive" name="nextDepartures.jar">
+      <element id="library" level="project" name="Gradle: org.json:json:20231013" />
+      <element id="module-output" name="nextDepartures.main" />
+    </root>
+  </artifact>
+</component>
